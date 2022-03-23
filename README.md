@@ -8,6 +8,7 @@ Suggested approach:
 - Understand concepts in a step wise manner
 - Practice regularly based on complexity
 - Apply learning techniques to solve business questions
+- SQL is just one of the dimension captured here
 
 ## SQL Concepts
 
